@@ -45,5 +45,15 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	    <!-- Notification Permission Request Description -->
+    <key>UIUserNotificationUsageDescription</key>
+    <string>We need your permission to send notifications about important updates and messages.</string>
+
+    <!-- Background Modes for Notifications -->
+    <key>UIBackgroundModes</key>
+    <array>
+        <string>fetch</string>
+        <string>remote-notification</string>
+    </array>
 </dict>
 </plist>

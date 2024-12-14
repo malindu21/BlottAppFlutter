@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:permission_handler/permission_handler.dart';
 
 import '../utils/app_constants.dart';
 import '../utils/app_image_constant.dart';
@@ -6,10 +7,19 @@ import 'dashboard_screen.dart';
 
 class AllowNotificationScreen extends StatelessWidget {
   Future<void> _requestNotificationPermission(BuildContext context) async {
-    Navigator.push(
-      context,
-      MaterialPageRoute(builder: (context) => DashboardScreen()),
-    );
+    PermissionStatus status = await Permission.notification.request();
+
+    if (status.isGranted) {
+      Navigator.push(
+        context,
+        MaterialPageRoute(builder: (context) => DashboardScreen()),
+      );
+    } else {
+      // Optionally, you can show a message or handle when permission is denied
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(content: Text('Notification permission is required')),
+      );
+    }
   }
 
   @override

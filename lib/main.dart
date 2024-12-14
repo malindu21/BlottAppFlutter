@@ -28,6 +28,7 @@ class MyApp extends StatelessWidget {
         ChangeNotifierProvider(create: (_) => DashboardViewModel()),
       ],
       child: MaterialApp(
+        debugShowCheckedModeBanner: false,
         title: blott,
         theme: appTheme,
         initialRoute: AppRoutes.legalName,
