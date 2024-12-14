@@ -6,14 +6,17 @@
 
 ## Sample Screenshots :
 
-<img src="https://github.com/user-attachments/assets/f7c12fe0-dc31-4a9b-ba55-dc28df8bd201" width="200">
-<img src="https://github.com/user-attachments/assets/c160d037-eff2-410e-9d0a-35622c886227" width="200">
-<img src="https://github.com/user-attachments/assets/1972da2c-68fc-456f-a5e8-2941ec3b12ef" width="200">
-<img src="https://github.com/user-attachments/assets/1f17e781-2e46-4d50-90cf-3891107ed1e6" width="200">
+<img src="https://github.com/user-attachments/assets/295577b2-06ff-480d-addd-8afbb19bfb13" width="200">
+<img src="https://github.com/user-attachments/assets/74abfd08-dc13-4317-a1ae-ff5cd6130651" width="200">
+<img src="https://github.com/user-attachments/assets/06af68fb-dd02-4f24-ab83-6ab12d2a5374" width="200">
+<img src="https://github.com/user-attachments/assets/35882f63-7773-468a-9161-e19523ad444d" width="200">
 
 ## Video Demo :
 
 Watch the video demo of the app in action:
 
-[![Video Title](https://github.com/user-attachments/assets/7c19e761-9686-4b67-bc73-6a7f99942cc9)](https://github.com/user-attachments/assets/7c19e761-9686-4b67-bc73-6a7f99942cc9)
+[![Video Title](https://github.com/user-attachments/assets/9d1ab491-8b65-4180-81cd-69126f854f07)](https://github.com/user-attachments/assets/9d1ab491-8b65-4180-81cd-69126f854f07)
+
+
+
 
