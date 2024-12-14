@@ -1,16 +1,19 @@
 # blott_app
 
-A new Flutter project.
+## Tools & Technologies
 
-## Getting Started
+- **MVVM Design Pattern**: To ensure a clean, organized, and maintainable codebase.
 
-This project is a starting point for a Flutter application.
+## Sample Screenshots :
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/user-attachments/assets/f7c12fe0-dc31-4a9b-ba55-dc28df8bd201" width="200">
+<img src="https://github.com/user-attachments/assets/c160d037-eff2-410e-9d0a-35622c886227" width="200">
+<img src="https://github.com/user-attachments/assets/1972da2c-68fc-456f-a5e8-2941ec3b12ef" width="200">
+<img src="https://github.com/user-attachments/assets/1f17e781-2e46-4d50-90cf-3891107ed1e6" width="200">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Video Demo :
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Watch the video demo of the app in action:
+
+[![Video Title](https://github.com/user-attachments/assets/7c19e761-9686-4b67-bc73-6a7f99942cc9)](https://github.com/user-attachments/assets/7c19e761-9686-4b67-bc73-6a7f99942cc9)
+
