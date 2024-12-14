@@ -10,7 +10,6 @@
 <img src="https://github.com/user-attachments/assets/ea9c4aee-d4ff-40d5-b562-c258fce9c6b8" width="200">
 <img src="https://github.com/user-attachments/assets/6725b8f6-1c1f-4d42-aeec-a8808d859f70" width="200">
 <img src="https://github.com/user-attachments/assets/a5034de4-43ec-4eec-b425-138c9e1570bb" width="200">
-<img src="https://github.com/user-attachments/assets/a5034de4-43ec-4eec-b425-138c9e1570bb" width="200">
 <img src="https://github.com/user-attachments/assets/e5f3d4ba-9997-4ae6-bffe-0d89fc7efe37" width="200">
 
 ## iOS :
